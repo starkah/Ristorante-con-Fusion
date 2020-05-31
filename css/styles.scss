@@ -75,3 +75,15 @@ body{
     z-index: 1;
 }
 
+.modal-header {
+    background-color: $background-dark;
+    color: #FFFaF0;
+
+    .close {
+        background-color:  #FFFaF0;
+    }
+}
+
+.modal-body {
+    background-color: $background-pale;
+}
